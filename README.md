@@ -1,6 +1,7 @@
-# myphotos
+# MyPhotos
 
 > Photo Gallery plugin
+This Kibana plugin will render a Photo-Gallery view of photos.
 
 ---
 
